@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quintihoratifla03horagoog_0006.png"; bbox 0 0 3025 4776; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1107 4055 1672 4136">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1107 4055 1672 4136">
+     <span class='ocr_line' id='line_1_1' title="bbox 1107 4055 1672 4136; baseline 0.002 -3"><span class='ocrx_word' id='word_1_1' title='bbox 1107 4055 1672 4136; x_wconf 69' lang='lat' dir='ltr'>AUGUSTUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 945 4252 1824 4306">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 945 4252 1824 4306">
+     <span class='ocr_line' id='line_1_2' title="bbox 945 4252 1824 4306; baseline -0.008 -3"><span class='ocrx_word' id='word_1_2' title='bbox 945 4257 1073 4306; x_wconf 61' lang='lat' dir='ltr'>{me</span> <span class='ocrx_word' id='word_1_3' title='bbox 1084 4255 1141 4300; x_wconf 68' lang='lat' dir='ltr'>the</span> <span class='ocrx_word' id='word_1_4' title='bbox 1154 4252 1321 4300; x_wconf 62' lang='lat' dir='ltr'>thcas</span> <span class='ocrx_word' id='word_1_5' title='bbox 1338 4255 1539 4306; x_wconf 62' lang='lat' dir='ltr'>Conamen,</span> <span class='ocrx_word' id='word_1_6' title='bbox 1566 4254 1668 4299; x_wconf 44' lang='lat' dir='ltr'>En}</span> <span class='ocrx_word' id='word_1_7' title='bbox 1683 4253 1778 4300; x_wconf 69' lang='lat' dir='ltr'>Mus</span> <span class='ocrx_word' id='word_1_8' title='bbox 1815 4259 1824 4303; x_wconf 86' lang='lat'>)</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 182 728 2595 3863">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 182 728 2595 3863">
+     <span class='ocr_line' id='line_1_3' title="bbox 182 728 2595 3863; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 182 728 2595 3863; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 2002 4573 2606 4693">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 2002 4573 2606 4693">
+     <span class='ocr_line' id='line_1_4' title="bbox 2002 4573 2606 4693; baseline 0 -36"><span class='ocrx_word' id='word_1_10' title='bbox 2002 4623 2174 4667; x_wconf 63' lang='lat' dir='ltr'>Digitized</span> <span class='ocrx_word' id='word_1_11' title='bbox 2194 4623 2237 4667; x_wconf 65' lang='lat' dir='ltr'>toy</span> <span class='ocrx_word' id='word_1_12' title='bbox 2252 4573 2606 4693; x_wconf 69' lang='lat' dir='ltr'>GOOgIC</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 2932 217 2934 903">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 2932 217 2934 903">
+     <span class='ocr_line' id='line_1_5' title="bbox 2932 217 2934 903; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 2932 217 2934 903; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
